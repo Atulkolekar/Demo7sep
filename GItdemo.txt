@@ -1,0 +1,15 @@
+# Git Demo File
+
+## Introduction
+This file serves as a demonstration of basic Git commands and workflows. It is intended for beginners who are new to version control and Git.
+
+## File Contents
+1. **README.md** - Provides an overview of the project and instructions for getting started.
+2. **main.py** - Contains the main code for the project.
+3. **.gitignore** - Specifies files and directories to be ignored by Git.
+
+## Instructions
+### Cloning the Repository
+To clone this repository, use the following command:
+```sh
+git clone https://github.com/username/repository-name.git
